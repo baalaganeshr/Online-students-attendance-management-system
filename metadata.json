@@ -1,0 +1,5 @@
+{
+  "name": "GeoAttend - Mahalakshmi Women's College",
+  "description": "Location-based student attendance management system for Mahalakshmi Women's College of Arts and Science.",
+  "requestFramePermissions": ["geolocation", "camera"]
+}
